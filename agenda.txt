@@ -1,0 +1,17 @@
+chatbot -----> user input ------> bot response text format
+
+steps  
+
+un init hltro
+uv venv
+.venv\Scripts\activate
+
+now we will create requirement.txt file  ---->
+
+streamlit  ---> for ui
+
+python-dotenv ----> using this method we can import our secrets in main file.
+
+googlegenerativeai  ---> gemini library 
+
+API ----> application prgramming interface ---> user<---> server
