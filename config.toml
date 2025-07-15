@@ -1,0 +1,8 @@
+[user]
+name = "Gungun Goyal"
+age = 21
+active = true
+
+[project]
+name = "AI Assistant"
+version = "1.0.0"
